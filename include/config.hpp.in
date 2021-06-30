@@ -1,0 +1,3 @@
+#define VERSION_MAJOR @template_project_VERSION_MAJOR@
+#define VERSION_MINOR @template_project_VERSION_MINOR@
+#define VERSION_PATCH @template_project_VERSION_PATCH@
